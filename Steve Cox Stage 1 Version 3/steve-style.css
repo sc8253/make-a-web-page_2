@@ -1,0 +1,66 @@
+/* CSS format largely borrowed from Andy's example code */
+body {
+	padding: 20px 10px;
+	font-family: Helvetica;
+	max-width: 2000px;
+	margin: 0 auto; 
+	font-size: 1.4em;
+}                 
+
+h1 {
+	text-align: center;
+	color: #1A1B1B;
+}
+
+p {
+	margin: 10px 0;
+}
+
+ul {
+	list-style-type: none; 
+}
+
+li {
+	font-size: 20px;
+	line-height: 44px; 
+}
+
+.lesson {
+	background-color: #BCBCBC;
+	border-radius: 20px;
+	color: white;
+	padding: 10px;
+	margin: 10px auto;
+}
+
+h2 {
+	margin: 10px;
+}
+
+.concept {
+	background-color: #FFFFFF;
+	padding: 4px;
+	margin: 10px;
+	border-radius: 4px;
+	color: black;
+}
+
+.concept-title {
+	font-size: 28px;
+	margin: 8px;
+	text-align: center;
+	color: #808183;
+}
+
+.concept-description {
+	font-weight: lighter;
+	margin: 6px;
+}
+
+.code {
+	font-family: Courier;
+	color : black;
+	font-weight: bold;
+	padding-left:  4px;
+	padding-right: 4px;
+}
